@@ -1,0 +1,16 @@
+{
+  "name": "Cuti-Online-Laravel",
+  "description": "cuti",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
